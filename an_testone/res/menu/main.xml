@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.an_testone.MainActivity" >
+
+    <item
+        android:id="@+id/exit"
+        android:title="退出"
+        />
+
+</menu>
